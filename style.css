@@ -90,12 +90,18 @@ img.photos{
 	height: 220px;
 	margin: 45px;
 	border: solid 0.5px rgb(143, 152, 143);	
-	transition: transform .2s;
+	transition: .2s;
+	transform: .2s;
+	object-fit: cover;
+	
 }
 
 img.photos:hover{
 	transform: scale(1.35);
-}
+	width: 12%;
+	height: 12%;
+	transform: .5s;
+	}
 
 body{
 	background-color: rgb(143, 152, 143);
