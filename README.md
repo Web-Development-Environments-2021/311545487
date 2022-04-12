@@ -1,7 +1,7 @@
 * Name: Yonatan Abeksis
 * ID: 311545487
 * Github username: abeksis93
-* URL: https://web-development-environments-2021.github.io/assignment1-abeksis93/
+* URL: https://web-development-environments-2021.github.io/311545487/
 
 ### Abuela Susana
 
